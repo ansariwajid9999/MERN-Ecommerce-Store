@@ -1,2 +1,2 @@
 ## MERN E-Commerce Store 👇
-![Project Logo](./uploads/thumb.png)
+![Project Logo](thumb.png)
